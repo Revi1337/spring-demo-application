@@ -1,0 +1,7 @@
+token:
+  access-token:
+    expired: 10s
+    secret-key: test-access-key
+  refresh-token:
+    expired: 30s
+    secret-key: test-refresh-key
